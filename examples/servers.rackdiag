@@ -16,4 +16,5 @@ rackdiag {
   6: Web Server
   7: Load Balancer
   8: L3 Switch
+  9: N/A [4U]
 }
